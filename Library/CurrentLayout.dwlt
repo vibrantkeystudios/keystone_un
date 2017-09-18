@@ -70,7 +70,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 108
+  controlID: 82
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 32
+  controlID: 9
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -183,7 +183,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 33
+  controlID: 10
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -339,7 +339,7 @@ MonoBehaviour:
     height: 315
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: ae060000
     m_LastClickedID: 0
     m_ExpandedIDs: e8fbffff00000000
     m_RenameOverlay:
@@ -434,20 +434,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets
+    - Assets/Scripts/Player
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/Scripts/Player
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\DylanF_2\Documents\Schoolwork\SoftwareDevelopment\Unity
     Projects\Vibrant Key\keystone_un
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b6240000
-    m_LastClickedID: 9398
-    m_ExpandedIDs: 00000000b6240000e824000012250000ac270000ffffff7f
+    m_SelectedIDs: e2240000
+    m_LastClickedID: 9442
+    m_ExpandedIDs: 00000000ba240000ec24000018250000b2270000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -475,7 +475,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b6240000e824000012250000ac270000
+    m_ExpandedIDs: 00000000ba240000ec24000018250000b2270000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -502,7 +502,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: b4250000c82400001425000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -573,8 +573,8 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 0
-    m_VSlider: 0
+    m_HSlider: 1
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoom: 0
@@ -586,8 +586,8 @@ MonoBehaviour:
       y: 17
       width: 634
       height: 272
-    m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 317, y: 136}
+    m_Scale: {x: 1.1514152, y: 1.1514152}
+    m_Translation: {x: 364.99863, y: 115.407524}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -595,9 +595,9 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -317
-      y: -136
-      width: 634
-      height: 272
+      y: -100.23102
+      width: 550.6267
+      height: 236.23102
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
@@ -633,14 +633,14 @@ MonoBehaviour:
     width: 634
     height: 304
   m_SceneLighting: 1
-  lastFramingTime: 4811.9842224916065
+  lastFramingTime: 17710.25605200148
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 8.654585, y: 0, z: 4.5585265}
+    m_Target: {x: 5.5, y: 2.4, z: 0}
     speed: 2
-    m_Value: {x: 8.654585, y: 0, z: 4.5585265}
+    m_Value: {x: 5.5, y: 2.4, z: 0}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -663,13 +663,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.15201665, y: 0.50849813, z: -0.091744184, w: 0.84255785}
+    m_Target: {x: -0.013058698, y: -0.9250399, z: 0.031929493, w: -0.3783006}
     speed: 2
-    m_Value: {x: 0.15201665, y: 0.5084981, z: -0.09174418, w: 0.8425578}
+    m_Value: {x: 0.013058698, y: 0.92503995, z: -0.031929493, w: 0.37830064}
   m_Size:
-    m_Target: 272.7951
+    m_Target: 4.1573653
     speed: 2
-    m_Value: 272.7951
+    m_Value: 4.1573653
   m_Ortho:
     m_Target: 0
     speed: 2
