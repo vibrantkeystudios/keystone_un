@@ -49,11 +49,26 @@
      <Compile Include="Assets\Scripts\Camera\CameraScript.cs" />
      <Compile Include="Assets\Scripts\Enemy\EnemyAttack.cs" />
      <Compile Include="Assets\Scripts\Enemy\EnemyHealth.cs" />
+     <Compile Include="Assets\Scripts\Enemy\EnemyManager.cs" />
      <Compile Include="Assets\Scripts\Enemy\EnemyMovement.cs" />
-     <Compile Include="Assets\Scripts\EnemyManager.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerHealth.cs" />
      <Compile Include="Assets\Scripts\Player\PlayerShooting.cs" />
+     <Compile Include="Assets\UI\Scripts\ActiveStateToggler.cs" />
+     <Compile Include="Assets\UI\Scripts\ApplicationManager.cs" />
+     <Compile Include="Assets\UI\Scripts\ChangeColor.cs" />
+     <Compile Include="Assets\UI\Scripts\DragMe.cs" />
+     <Compile Include="Assets\UI\Scripts\DragPanel.cs" />
+     <Compile Include="Assets\UI\Scripts\DropMe.cs" />
+     <Compile Include="Assets\UI\Scripts\PanelManager.cs" />
+     <Compile Include="Assets\UI\Scripts\ResizePanel.cs" />
+     <Compile Include="Assets\UI\Scripts\ScrollDetailTexture.cs" />
+     <Compile Include="Assets\UI\Scripts\ShowSliderValue.cs" />
+     <Compile Include="Assets\UI\Scripts\StartGame.cs" />
+     <Compile Include="Assets\UI\Scripts\TiltWindow.cs" />
+     <None Include="Assets\UI\Fonts\Jupiter\LICENSE.txt" />
+     <None Include="Assets\UI\Textures and Sprites\SF UI\Background\LICENSE.txt" />
+     <None Include="Assets\Materials\UI-Default-No-Alpha.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

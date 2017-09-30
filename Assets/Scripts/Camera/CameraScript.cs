@@ -10,6 +10,7 @@ public class CameraScript : MonoBehaviour {
 
 	void Start() {
 		offset = transform.position - target.position;
+
 	}
 
 	void FixedUpdate() {
